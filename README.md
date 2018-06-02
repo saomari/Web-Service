@@ -1,5 +1,4 @@
-# Webservices
-Projet Web Services Master Miage
+
 ## Git
 <ul>
 <li>git add .<il>
