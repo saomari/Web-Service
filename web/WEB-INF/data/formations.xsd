@@ -1,0 +1,10 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="formation.xsd" />
+    <xs:element name="formations">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="formation" maxOccurs="unbounded" type="formation" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

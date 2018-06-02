@@ -1,0 +1,20 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="utilisateur.xsd" />
+    <xs:element name="candidat" type="candidat"/>
+    <xs:complexType name="candidat">
+        <xs:complexContent>
+            <xs:extension base="utilisateur">
+                <xs:sequence>
+                    <xs:element name="genre" type="xs:string" />
+                    <xs:element name="nationalite" type="xs:string" />
+                    <xs:element name="telephone" type="xs:string" />
+                    <xs:element name="aniverssaire" type="xs:string" />
+                    <xs:element name="etablissement" type="xs:string" />
+                    <xs:element name="diplome" type="xs:string" />
+                    <xs:element name="note" type="xs:float" />
+                    <xs:element name="motivation" type="xs:string" />
+                </xs:sequence>
+            </xs:extension>
+        </xs:complexContent>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<formations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="formations.xsd">
+    <formation>
+        <libelle>Master Gestion</libelle>
+        <description>Le Master Gestion est un diplôme d'Etat conférant le grade bac +5.</description>
+    </formation>
+    <formation>
+        <libelle>Master Miage</libelle>
+        <description>Le Master Miage est un diplôme d'Etat conférant le grade bac +5.</description>
+    </formation>
+    <formation>
+        <libelle>Master Histoire</libelle>
+        <description>Le Master Histoire est un diplôme d'Etat conférant le grade bac +5.</description>
+    </formation>
+    <formation>
+        <libelle>Master Politique</libelle>
+        <description>Le Master Politique est un diplôme d'Etat conférant le grade bac +5.</description>
+    </formation>
+    <formation>
+        <libelle>Master Economie</libelle>
+        <description>Le Master Economie est un diplôme d'Etat conférant le grade bac+5.</description>
+    </formation>
+</formations>

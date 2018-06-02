@@ -1,0 +1,10 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="utilisateur.xsd" />
+    <xs:element name="utilisateurs">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="utilisateur" maxOccurs="unbounded" type="utilisateur" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

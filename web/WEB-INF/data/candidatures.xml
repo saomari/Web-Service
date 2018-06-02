@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candidatures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="candidatures.xsd">
+    <candidature>
+        <candidat>
+            <nom>Aomari</nom>
+            <prenom>Sarra</prenom>
+            <email>a.sarra@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Féminin</genre>
+            <nationalite>Marocaine</nationalite>
+            <telephone>0607080935</telephone>
+            <aniverssaire>1998-04-12</aniverssaire>
+            <etablissement>Université de Bordeaux</etablissement>
+            <diplome>Master 1 Miage</diplome>
+            <note>13.4</note>
+            <motivation>Je suis motivée... lol</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Gestion</libelle>
+            <description>Le Master Gestion est un diplôme d'Etat conférant le grade bac +5.</description>
+        </formation>
+        <statut>Validée</statut>
+    </candidature>
+    <candidature>
+        <candidat>
+            <nom>Aomari</nom>
+            <prenom>Sarra</prenom>
+            <email>a.sarra@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Féminin</genre>
+            <nationalite>Marocaine</nationalite>
+            <telephone>0607080935</telephone>
+            <aniverssaire>1998-04-12</aniverssaire>
+            <etablissement>Université de Bordeaux</etablissement>
+            <diplome>Master 1 Miage</diplome>
+            <note>13.4</note>
+            <motivation>Je suis motivée... lol</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Histoire</libelle>
+            <description>Le Master Histoire est un diplôme d'Etat conférant le grade bac +5.</description>
+        </formation>
+        <statut>Validée</statut>
+    </candidature>
+    <candidature>
+        <candidat>
+            <nom>Aomari</nom>
+            <prenom>Sarra</prenom>
+            <email>a.sarra@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Féminin</genre>
+            <nationalite>Marocaine</nationalite>
+            <telephone>0607080935</telephone>
+            <aniverssaire>1998-04-12</aniverssaire>
+            <etablissement>Université de Bordeaux</etablissement>
+            <diplome>Master 1 Miage</diplome>
+            <note>13.4</note>
+            <motivation>Je suis motivée... lol</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Miage</libelle>
+            <description>Le Master Miage est un diplôme d'Etat conférant le grade bac +5.</description>
+        </formation>
+        <statut>Validée</statut>
+    </candidature>
+    <candidature>
+        <candidat>
+            <nom>Aomari</nom>
+            <prenom>Sarra</prenom>
+            <email>a.sarra@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Féminin</genre>
+            <nationalite>Marocaine</nationalite>
+            <telephone>0607080935</telephone>
+            <aniverssaire>1998-04-12</aniverssaire>
+            <etablissement>Université de Bordeaux</etablissement>
+            <diplome>Master 1 Miage</diplome>
+            <note>13.4</note>
+            <motivation>Je suis motivée... lol</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Economie</libelle>
+            <description>Le Master Economie est un diplôme d'Etat conférant le grade bac+5.</description>
+        </formation>
+        <statut>Validée</statut>
+    </candidature>
+    <candidature>
+        <candidat>
+            <nom>Albrespit</nom>
+            <prenom>Adrien</prenom>
+            <email>a.adrien@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Masculin</genre>
+            <nationalite>FranÃ§aise</nationalite>
+            <telephone>0753221146</telephone>
+            <aniverssaire>2018-06-07</aniverssaire>
+            <etablissement>U_bordeaux</etablissement>
+            <diplome>MIAGE</diplome>
+            <note>17.0</note>
+            <motivation>Je suis motivÃ© !</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Histoire</libelle>
+            <description>Le Master Histoire est un diplôme d'Etat conférant le grade bac +5.</description>
+        </formation>
+        <statut>En Cours</statut>
+    </candidature>
+    <candidature>
+        <candidat>
+            <nom>Albrespit</nom>
+            <prenom>Adrien</prenom>
+            <email>a.adrien@mail.com</email>
+            <mdp>motdepasse</mdp>
+            <genre>Masculin</genre>
+            <nationalite>FranÃ§aise</nationalite>
+            <telephone>0753221146</telephone>
+            <aniverssaire>2018-06-07</aniverssaire>
+            <etablissement>U_bordeaux</etablissement>
+            <diplome>MIAGE</diplome>
+            <note>17.0</note>
+            <motivation>Je suis motivÃ© !</motivation>
+        </candidat>
+        <formation>
+            <libelle>Master Miage</libelle>
+            <description>Le Master Miage est un diplôme d'Etat conférant le grade bac +5.</description>
+        </formation>
+        <statut>En Cours</statut>
+    </candidature>
+</candidatures>

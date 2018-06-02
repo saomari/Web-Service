@@ -1,0 +1,11 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="utilisateur" type="utilisateur"/>
+    <xs:complexType name="utilisateur">
+        <xs:sequence>
+            <xs:element name="nom" type="xs:string" />
+            <xs:element name="prenom" type="xs:string" />
+            <xs:element name="email" type="xs:string" />
+            <xs:element name="mdp" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

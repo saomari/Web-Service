@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candidats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="candidats.xsd">
+    <candidat>
+        <nom>Aomari</nom>
+        <prenom>Sarra</prenom>
+        <email>a.sarra@mail.com</email>
+        <mdp>motdepasse</mdp>
+        <genre>Féminin</genre>
+        <nationalite>Marocaine</nationalite>
+        <telephone>0607080935</telephone>
+        <aniverssaire>1998-04-12</aniverssaire>
+        <etablissement>Université de Bordeaux</etablissement>
+        <diplome>Master 1 Miage</diplome>
+        <note>13.4</note>
+        <motivation>Je suis motivée... lol</motivation>
+    </candidat>
+    <candidat>
+        <nom>fdqsfsdf</nom>
+        <prenom>dqdqdfd</prenom>
+        <email>fqsdfqsd</email>
+        <mdp>ttt</mdp>
+        <genre>fzf</genre>
+        <nationalite>fzfae</nationalite>
+        <telephone>fqsdf</telephone>
+        <aniverssaire>2018-06-22</aniverssaire>
+        <etablissement>fsdf</etablissement>
+        <diplome>fsdf</diplome>
+        <note>87.0</note>
+        <motivation>fdf</motivation>
+    </candidat>
+    <candidat>
+        <nom>Albrespit</nom>
+        <prenom>Adrien</prenom>
+        <email>a.adrien@mail.com</email>
+        <mdp>motdepasse</mdp>
+        <genre>Masculin</genre>
+        <nationalite>FranÃ§aise</nationalite>
+        <telephone>0753221146</telephone>
+        <aniverssaire>2018-06-07</aniverssaire>
+        <etablissement>U_bordeaux</etablissement>
+        <diplome>MIAGE</diplome>
+        <note>17.0</note>
+        <motivation>Je suis motivÃ© !</motivation>
+    </candidat>
+</candidats>

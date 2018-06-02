@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="candidat.xsd" />
+    <xs:include schemaLocation="formation.xsd" />
+    <xs:element name="candidature" type="candidature" />
+    <xs:complexType name="candidature">
+        <xs:sequence>
+            <xs:element name="candidat" type="candidat" />
+            <xs:element name="formation" type="formation" />
+            <xs:element name="statut" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,10 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="candidature.xsd" />
+    <xs:element name="candidatures">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="candidature" minOccurs="0" maxOccurs="unbounded" type="candidature" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
